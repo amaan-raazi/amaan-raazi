@@ -43,6 +43,7 @@ Feel free to connect with me on any of my socials!
 <img  align ="left" width="30px" src="https://cdn.jsdelivr.net/npm/@loganmarchione/homelab-svg-assets@latest/assets/git.svg"/>
 <br>
 <br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-raazi&theme=onedark">
 
 ---
