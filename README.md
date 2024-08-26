@@ -6,7 +6,7 @@
 
 - Passionate about all things tech, maths and finance
 - Proficient in C++ and Python, with some experience in JavaScript 
-- Enjoy participating in programming competitions (Qualified for Indian National Round in 2022)
+- Enjoy participating in programming competitions (Qualified for Indian National Round of Coding Olympiad 2022)
 - Huge motorsport aficionado (🏎️💨)
 - Love to travel (🏝️)
 - Always learning :)
