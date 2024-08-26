@@ -2,7 +2,7 @@
 
 
 ---
-> I'm a first year Mathematics and Computer Science student at The University of Bristol, UK.
+> ## I'm a first year Mathematics and Computer Science student at The University of Bristol, UK.
 ---
 
 - Passionate about all things tech, maths and finance
@@ -20,15 +20,15 @@ Feel free to connect with me on any of my socials!
 <br>
 > <a href="mailto:info@amaanraazi.com">Email</a>
 <br>
-<a href="https://amaanraazi.com">Personal Website</a>
+> <a href="https://amaanraazi.com">Personal Website</a>
 <br>
-<a href="https://www.linkedin.com/in/amaan-raazi/">LinkedIn</a>
+> <a href="https://www.linkedin.com/in/amaan-raazi/">LinkedIn</a>
 <br>
-<a href="https://codeforces.com/profile/amaan_raazi">Codeforces</a>
+> <a href="https://codeforces.com/profile/amaan_raazi">Codeforces</a>
 <br>
-<a href="https://github.com/amaan-raazi">GitHub</a>
+> <a href="https://github.com/amaan-raazi">GitHub</a>
 <br>
-<a href="https://instagram.com/amr_raazi">Instagram</a>
+> <a href="https://instagram.com/amr_raazi">Instagram</a>
 
 ---
 
