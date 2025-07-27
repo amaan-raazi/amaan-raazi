@@ -24,8 +24,6 @@ The best way to connect with me is through email at **<a href="mailto:info@amaan
 
 ---
 
-## Activity
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-raazi&theme=onedark" alt="Top languages"/>
 </p>
