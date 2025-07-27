@@ -22,10 +22,13 @@ Please feel free to connect with me on any of my socials!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-raazi/)
 
 ---
+## Skills
 
-<p align="center">
+**Primary:** Python, C++, OCaml, JavaScript  
+**Also familiar with:** Haskell, Java, HTML5, CSS3  
+**Tools:** Git, VS Code, JetBrains IDEs
+---
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-raazi&theme=onedark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-raazi&theme=dark" />
-</p>
 
 
