@@ -1,6 +1,7 @@
 # Hi, I'm Amaan Raazi 👋
 
 ---
+
 I'm a Mathematics & Computer Science student at the University of Bristol, exploring the intersection of technology,
 mathematics, and finance.
 
@@ -20,15 +21,6 @@ The best way to connect with me is through email at **<a href="mailto:info@amaan
 > <a href="https://amaanraazi.com">Personal Website</a>
 > <br>
 > <a href="https://www.linkedin.com/in/amaan-raazi/">LinkedIn</a>
-
-
----
-
-## Skills
-
-- **Primary:** Python, C++, OCaml, JavaScript
-- **Also familiar with:** Haskell, Java, HTML5, CSS3
-- **Tools:** Git, VS Code, JetBrains IDEs
 
 ---
 
