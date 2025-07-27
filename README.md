@@ -15,20 +15,27 @@ and <a href="https://amaanraazi.com">personal website</a> for more information a
 ## Contact
 
 The best way to connect with me is through email at **<a href="mailto:info@amaanraazi.com">info@amaanraazi.com</a>**
-
-Please feel free to connect with me on any of my socials!
 <br>
-[![Website](https://img.shields.io/badge/Website-amaanraazi.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://amaanraazi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-raazi/)
+
+> <a href="https://amaanraazi.com">Personal Website</a>
+> <br>
+> <a href="https://www.linkedin.com/in/amaan-raazi/">LinkedIn</a>
+
 
 ---
+
 ## Skills
 
-**Primary:** Python, C++, OCaml, JavaScript  
-**Also familiar with:** Haskell, Java, HTML5, CSS3  
-**Tools:** Git, VS Code, JetBrains IDEs
+- **Primary:** Python, C++, OCaml, JavaScript
+- **Also familiar with:** Haskell, Java, HTML5, CSS3
+- **Tools:** Git, VS Code, JetBrains IDEs
+
 ---
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-raazi&theme=onedark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-raazi&theme=dark" />
+
+## Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-raazi&theme=onedark" alt="Top languages"/>
+</p>
 
 
