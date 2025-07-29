@@ -2,11 +2,9 @@
 
 ---
 
-I'm a Mathematics & Computer Science student at the University of Bristol, exploring the intersection of technology,
-mathematics, and finance.
+I’m a Mathematics & Computer Science student at the University of Bristol, exploring <strong>Technology, Mathematics, and Finance.</strong>
 
-I have several years of programming experience across multiple languages and regularly contribute to both open and
-closed-source projects. **I am always open to collaborating on interesting projects.**
+I have several years of programming experience across multiple languages and regularly contributing to a range of projects.
 
 You can explore my public projects below, or check out my <a href="https://www.linkedin.com/in/amaan-raazi/">LinkedIn</a>
 and <a href="https://amaanraazi.com">personal website</a> for more information about my background and experience.
