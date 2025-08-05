@@ -13,7 +13,7 @@ and <a href="https://amaanraazi.com">personal website</a> for more information a
 
 ## Contact
 
-The best way to connect with me is through email at **<a href="mailto:info@amaanraazi.com">info@amaanraazi.com</a>**
+The best way to connect with me is through email at **<a href="mailto:amaan@amaanraazi.com">amaan@amaanraazi.com</a>**
 <br>
 
 > <a href="https://amaanraazi.com">Personal Website</a>
